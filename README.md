@@ -16,7 +16,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://madkn1311.github.io/fem-Stats-preview/)
 
 ## My process
 
